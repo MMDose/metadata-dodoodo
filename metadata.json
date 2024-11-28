@@ -1,12 +1,7 @@
 {
-    "name": "DODOS",
-    "symbol": "DODOS",
-    "description": "Only Possible On Solanaaaaa",
+    "name": "Hamster Grand Prix",
+    "symbol": "$HAMSGP",
+    "description": "An AI powered racing platform allowing users to race and bet on digital hamsters",
     "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+    "attributes": []
   }
